@@ -56,6 +56,11 @@
             "lang": "es",
             "name": "Spanish",
             "path": "lang/es.json"
+        },
+        {
+            "lang": "sv",
+            "name": "Svenska",
+            "path": "lang/sv.json"
         }
     ],
     "gridDistance": 1,
