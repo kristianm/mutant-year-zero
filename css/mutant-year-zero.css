@@ -71,8 +71,15 @@ $font-secondary: 'Roboto', sans-serif;*/
   border: none;
 }
 
+.roll-dialog .label-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
 .roll-dialog label {
   text-transform: capitalize;
+  margin-left: 5px;
 }
 
 .grid,
